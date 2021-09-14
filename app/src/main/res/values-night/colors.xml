@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="pink_400">#FFEC407A</color>
+    <color name="purple_550">#FF9C27B0</color>
+    <color name="purple_A100">#FFB388FF</color>
+    <color name="Indigo_300">#FF7986CB</color>
+    <color name="Blue_400">#FF42A5F5</color>
+    <color name="Cyan_400">#FF26C6DA</color>
+    <color name="Green_500">#FF4CAF50</color>
+    <color name="Light_Green_100">#FFDCEDC8</color>
+    <color name="Lime_600">#FFC0CA33</color>
+    <color name="Amber_700">#FFFFA000</color>
+    <color name="Orange_900">#FFE65100</color>
+    <color name="Deep_Orange_900">#FFBF360C</color>
+    <color name="Brown_600">#FF6D4C41</color>
+    <color name="Grey_700">#FF616161</color>
+    <color name="black">#FF000000</color>
+    <color name="black_200">#2c2c2c</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_color">#2196F3</color>
+    <color name="list_border">#FFFFFFFF</color>
+    <color name="music_player_bg_color">#2C2C2C</color>
+    <color name="black_list_bg">#FF000000</color>
+    <color name="black_music_icon_list">#FFFFFFFF</color>
+    <color name="black_list_name">#FFFFFFFF</color>
+    <color name="black_theme_text">#FFFFFFFF</color>
+    <color name="black_songname">#FFFFFFFF</color>
+    <color name="black_btnstart">#FFFFFFFF</color>
+    <color name="black_btnstop">#FFFFFFFF</color>
+    <color name="Orange_900_seekbar">#FFFFFFFF</color>
+</resources>
